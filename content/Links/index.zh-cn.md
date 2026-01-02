@@ -7,7 +7,7 @@
     </div>
   </a>
 
-  <a href="https://github.com/Cymlin1231" style="display: flex; align-items: center; padding: 0px 20px; border: 2px solid #e1e4e8; border-radius: 15px; background-color: #ffffff; text-decoration: none; transition: 0.2s;">
+  <a href="https://github.com/Cymlin" style="display: flex; align-items: center; padding: 0px 20px; border: 2px solid #e1e4e8; border-radius: 15px; background-color: #ffffff; text-decoration: none; transition: 0.2s;">
     <img src="github.zh-cn.svg" width="32" style="margin-right: 20px; flex-shrink: 0;">
     <div style="flex-grow: 1; text-align: center; margin-right: 24px;">
       <span style="color: #000000ff; font-weight: 300; font-size: 1.1em; font-family: 'Segoe UI', 'Microsoft JhengHei', sans-serif;">Github</span>
