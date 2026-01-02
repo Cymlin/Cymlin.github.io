@@ -1,0 +1,11 @@
+disabled = false
+languageCode = "ja"
+languageName = "Japanese"
+weight = 1
+title = "しむりんのこーなー"
+
+[params]
+displayName = "日本語"
+isoCode = "ja"
+rtl = false
+dateFormat = "2 January 2006"

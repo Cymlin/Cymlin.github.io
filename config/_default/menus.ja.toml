@@ -1,0 +1,35 @@
+[[main]]
+none = "none"
+
+[[main]]
+name = "ホーム"
+pageRef = "/"
+identifier = "UgzZGhv9MN"
+weight = 1
+
+[[main]]
+name = "キャラ"
+pageRef = "Characters"
+identifier = "DpMYhQHFVh"
+weight = 2
+
+[[main]]
+name = "ギャラリー"
+pageRef = "Galleries"
+identifier = "qZqfaVUXVZ"
+weight = 3
+
+[[main]]
+name = "スペック"
+pageRef = "Specs"
+identifier = "EyqtwiMsrp"
+weight = 4
+
+[[main]]
+name = "リンク"
+pageRef = "Links"
+identifier = "NZ28z7RVuG"
+weight = 5
+
+[[footer]]
+none = "none"

@@ -1,0 +1,11 @@
+disabled = false
+languageCode = "zh-tw"
+languageName = "Traditional Chinese (Taiwan)"
+weight = 1
+title = "詩夢凜的小旮旯"
+
+[params]
+displayName = "繁體中文"
+isoCode = "zh-tw"
+rtl = false
+dateFormat = "2 January 2006"

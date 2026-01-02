@@ -1,0 +1,35 @@
+[[main]]
+none = "none"
+
+[[main]]
+name = "Home"
+pageRef = "/"
+identifier = "UgzZGhv9MN"
+weight = 1
+
+[[main]]
+name = "Characters"
+pageRef = "Characters"
+identifier = "DpMYhQHFVh"
+weight = 2
+
+[[main]]
+name = "Galleries"
+pageRef = "Galleries"
+identifier = "qZqfaVUXVZ"
+weight = 3
+
+[[main]]
+name = "Specs"
+pageRef = "Specs"
+identifier = "EyqtwiMsrp"
+weight = 4
+
+[[main]]
+name = "Links"
+pageRef = "Links"
+identifier = "NZ28z7RVuG"
+weight = 5
+
+[[footer]]
+none = "none"

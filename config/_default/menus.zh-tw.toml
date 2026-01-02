@@ -1,0 +1,35 @@
+[[main]]
+none = "none"
+
+[[main]]
+name = "首頁"
+pageRef = "/"
+identifier = "UgzZGhv9MN"
+weight = 1
+
+[[main]]
+name = "角色"
+pageRef = "Characters"
+identifier = "DpMYhQHFVh"
+weight = 2
+
+[[main]]
+name = "相簿"
+pageRef = "Galleries"
+identifier = "qZqfaVUXVZ"
+weight = 3
+
+[[main]]
+name = "配置"
+pageRef = "Specs"
+identifier = "EyqtwiMsrp"
+weight = 4
+
+[[main]]
+name = "連結"
+pageRef = "Links"
+identifier = "NZ28z7RVuG"
+weight = 5
+
+[[footer]]
+none = "none"
