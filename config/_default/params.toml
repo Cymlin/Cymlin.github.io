@@ -24,6 +24,7 @@ advertisement = { }
 highlightCurrentMenuArea = "True"
 defaultBackgroundImage = "background_default.png"
 defaultFeaturedImage = "feature_default.png"
+defaultSocialImage = "background_default.png"
 
 [header]
 layout = "basic"
